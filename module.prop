@@ -1,0 +1,6 @@
+id=redminote5sfix
+name=Redmi Note 5 Sound fix
+version=v1
+versionCode=1
+author=Grmasa
+description=Systemlessly replaces your mixer_paths.xml for better sound.
